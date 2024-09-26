@@ -8,7 +8,7 @@
 
 ---
 
-## :handshake: Connect with Me
+## :handshake: Connect With Me
 
 <a href="https://www.linkedin.com/in/sergio-valer-pérez-6a49632b0" target="_blank">
   <img align="left" src="https://github.com/user-attachments/assets/72a5bde7-ef0b-4271-9ee9-216349c1bba0" alt="Sergio Valer | LinkedIn" width="35px"/>
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"/>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 </p>
 
@@ -50,10 +51,8 @@
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiovalerDEV&theme=default&hide_border=true" alt="Streak Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovalerDEV&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
+![sergiovalerDEV's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergiovalerDEV&theme=nord&hide_border=false)
 
-
-
+![sergiovalerDEV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovalerDEV&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
 ---
