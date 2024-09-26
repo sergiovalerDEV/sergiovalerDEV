@@ -10,7 +10,7 @@
 
 ## :handshake: Connect with Me
 
-<a href="www.linkedin.com/in/sergio-valer-pérez-6a49632b0" target="_blank">
+<a href="https://www.linkedin.com/in/sergio-valer-pérez-6a49632b0" target="_blank">
   <img align="left" src="https://github.com/user-attachments/assets/72a5bde7-ef0b-4271-9ee9-216349c1bba0" alt="Sergio Valer | LinkedIn" width="35px"/>
 </a>
 
