@@ -49,9 +49,11 @@
 ---
 
 ## :chart_with_upwards_trend: GitHub Stats
-<div style="width: 300px; height: 300px; display: flex; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovalerDEV&theme=default&show_icons=true&hide_border=true&layout=compact" style="width: 49%; height: 100%; object-fit: cover; ">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiovalerDEV&theme=default&hide_border=true" style="width: 49%; height: 100%; object-fit: cover;">
-</div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiovalerDEV&theme=default&hide_border=true" alt="Streak Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovalerDEV&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
+
+
+
 
 ---
