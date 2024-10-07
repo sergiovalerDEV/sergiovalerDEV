@@ -51,8 +51,13 @@
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-![sergiovalerDEV's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergiovalerDEV&theme=default&hide_border=false)
+<div style="display: flex; justify-content: space-between;">
 
-![sergiovalerDEV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovalerDEV&theme=default&show_icons=true&hide_border=false&layout=compact)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiovalerDEV&theme=default&hide_border=false" alt="sergiovalerDEV's Streak" height="200px"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovalerDEV&theme=default&show_icons=true&hide_border=false&layout=compact" alt="sergiovalerDEV's Top Languages" height="200px"/>
+
+</div>
+
 
 ---
