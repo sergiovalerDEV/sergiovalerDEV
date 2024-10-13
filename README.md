@@ -59,7 +59,4 @@
 
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sergiovalerDEV" alt="trophy">
-
-
 ---
