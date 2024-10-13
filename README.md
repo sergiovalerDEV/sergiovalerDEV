@@ -59,5 +59,7 @@
 
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?sergiovalerDEV=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
