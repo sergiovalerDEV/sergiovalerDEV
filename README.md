@@ -56,11 +56,11 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiovalerDEV&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovalerDEV&layout=compact&theme=radical)
 
 ![Sergio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiovalerDEV&theme=react-dark)
+
+[![Sergio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sergiovalerDEV&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
