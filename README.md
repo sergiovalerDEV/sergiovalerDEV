@@ -60,8 +60,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovalerDEV&layout=compact)
 
-![Sergio's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiovalerDEV)
-
+![Sergio's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiovalerDEV&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true&hide_title=true)
 </div>
 
 ---
