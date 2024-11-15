@@ -60,11 +60,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovalerDEV&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergiovalerDEV&theme=dark)](https://git.io/streak-stats)
-
 ![Sergio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiovalerDEV&theme=react-dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sergiovalerDEV&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
