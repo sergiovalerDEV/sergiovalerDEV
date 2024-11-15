@@ -60,7 +60,7 @@
 
 ![Sergio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiovalerDEV&theme=react-dark)
 
-[![Sergio's Isometric Commit Calendar](https://github-profile-summary-cards.vercel.app/api/cards/isocalendar?username=sergiovalerDEV&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Sergio's GitHub Stats in Retro Terminal Style](https://github-stats-alpha.vercel.app/api?username=sergiovalerDEV&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
