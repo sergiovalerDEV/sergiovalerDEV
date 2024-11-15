@@ -60,8 +60,7 @@
 
 ![Sergio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiovalerDEV&theme=react-dark)
 
-[![Sergio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sergiovalerDEV&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Sergio's 3D GitHub Contribution Calendar](https://github-profile-3d-contrib.vercel.app/api/sergiovalerDEV?type=rainbow)](https://github.com/yoshi389111/github-profile-3d-contrib)
 </div>
 
 ---
