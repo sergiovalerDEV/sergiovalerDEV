@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-👋 Hi, I’m **@sergiovalerDEV**  
-👀 I’m interested in **Full Stack Development**  
-🌱 I’m currently learning **AWS**, **Bootstrap**, **Android Studio**...  
-💞️ I’m looking forward to developing enhanced projects  
+👋 Hi, I'm **@sergiovalerDEV**  
+👀 I'm interested in **Full Stack Development**  
+🌱 I'm currently learning **AWS**, **Bootstrap**, **Android Studio**...  
+💞️ I'm looking forward to developing enhanced projects  
 📫 Reach me through LinkedIn, attached to this profile...
 
 ---
@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-
 </p>
 
 ---
@@ -57,7 +56,15 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiovalerDEV&theme=default&hide_border=false" alt="sergiovalerDEV's Streak" height="200px"/>
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiovalerDEV&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovalerDEV&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergiovalerDEV&theme=dark)](https://git.io/streak-stats)
+
+![Sergio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiovalerDEV&theme=react-dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sergiovalerDEV&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
