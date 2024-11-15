@@ -60,7 +60,8 @@
 
 ![Sergio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiovalerDEV&theme=react-dark)
 
-[![Sergio's 3D GitHub Contribution Calendar](https://github-profile-3d-contrib.vercel.app/api/sergiovalerDEV?type=rainbow)](https://github.com/yoshi389111/github-profile-3d-contrib)
+![Sergio's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sergiovalerDEV&theme=radical&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&ring_color=ff00ed&text_color=a35eff&icon_color=ff00ed&bg_color=0,000000,130F40&title_color=fff)
+
 </div>
 
 ---
