@@ -77,4 +77,6 @@
 - 🏛️ Exploring advanced software architecture patterns and best practices
 - 🚀 Building high-performance backend services with Nest.js
 
-  💡 Always learning, always growing. Let's build something amazing together!
+  ---
+
+💡 Always learning, always growing. Let's build something amazing together!
