@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-👋 Hi, I'm **@sergiovalerDEV**  
-👀 I'm interested in **Full Stack Development**  
-🌱 I'm currently learning **AWS**, **Bootstrap**, **Android Studio**...  
-💞️ I'm looking forward to developing enhanced projects  
-📫 Reach me through LinkedIn, attached to this profile...
+👀 I'm passionate about **Full Stack Development**, **Cloud Architecture**, and **Mobile App Development**
+🌱 Currently mastering **AWS**, **Docker**, **CI/CD**, **Software Architecture**, **Nest.js**, and **React Native**
+💞️ I'm eager to collaborate on innovative projects that push technological boundaries
+📫 Let's connect! Reach out through LinkedIn or email
 
 ---
 
@@ -68,3 +67,14 @@
 ![Sergio's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiovalerDEV&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true&custom_title=Sergio%20Valer's%20Contribution%20Graph)</div>
 
 ---
+
+## 🎯 Current Focus
+
+- 🏗️ Architecting scalable and resilient cloud-native applications on AWS
+- 🐳 Containerizing applications with Docker and orchestrating with Kubernetes
+- 🔄 Implementing robust CI/CD pipelines for seamless deployments
+- 📱 Developing cross-platform mobile apps with React Native
+- 🏛️ Exploring advanced software architecture patterns and best practices
+- 🚀 Building high-performance backend services with Nest.js
+
+  💡 Always learning, always growing. Let's build something amazing together!
