@@ -1,113 +1,215 @@
 <div align="center">
 
-<!-- Banner animado con typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sergio+Valer+%F0%9F%91%8B;Full+Stack+Developer;Clean+Code+%7C+Creative+Interfaces;Building+things+that+matter)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,60:112240,100:0d1117&height=200&section=header&text=Sergio%20Valer&fontSize=72&fontColor=64ffda&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer&descSize=22&descAlignY=75&descColor=8892b0" width="100%"/>
 
 </div>
 
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=64FFDA&center=true&vCenter=true&width=650&lines=Building+interfaces+that+feel+inevitable.;Clean+code+is+not+a+luxury%2C+it%27s+a+standard.;From+pixel+to+production.;Frontend+precision.+Backend+power.)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
 ---
 
-## 🧑‍💻 About Me
+<br/>
 
-```typescript
-const sergio = {
-  role:       "Full Stack Developer",
-  focus:      ["Clean Code", "Creative UI", "Scalable Architecture"],
-  currently:  "Building projects that blend functionality with great design",
-  philosophy: "Code should be readable by humans first, machines second",
-  fun_fact:   "I once built a Windows XP-themed form — with sounds 🔊",
-};
+## `< about />`
+
+<img align="right" width="38%" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
+
+Soy un desarrollador **Full Stack** con foco en construir productos digitales que sean tan sólidos por dentro como impecables por fuera.
+
+Me obsesiona el código limpio, la experiencia de usuario y ese punto donde **el diseño y la lógica se fusionan**. No escribo código para que funcione — lo escribo para que dure.
+
+<br/>
+
+- 🔭 &nbsp;Construyendo proyectos que mezclan creatividad y técnica
+- 🧠 &nbsp;Siempre aprendiendo — arquitectura, patrones, UX
+- ⚡ &nbsp;Creo que el mejor código es el que no necesita explicación
+- 🎨 &nbsp;Fan del detalle: desde la animación de un botón hasta la estructura de una API
+- 🌐 &nbsp;Basado en España — disponible para proyectos remotos
+
+<br/><br/><br/><br/>
+
+---
+
+<br/>
+
+## `< stack />`
+
+<br/>
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=64ffda)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=64ffda)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=64ffda)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=64ffda)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=64ffda)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=64ffda)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=64ffda)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=64ffda)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=64ffda)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=64ffda)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=64ffda)
+
+**Bases de datos**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=64ffda)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=64ffda)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=64ffda)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=64ffda)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=64ffda)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=64ffda)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=64ffda)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=64ffda)
+
+<br/>
+
+---
+
+<br/>
+
+## `< projects />`
+
+<br/>
+
+> Cada proyecto es una decisión de diseño. Aquí los más destacados.
+
+<br/>
+
+### 🖥️ &nbsp;Windows XP Retro Form
+
+<table>
+<tr>
+<td width="65%">
+
+Formulario con estética **Windows XP** construido con `XP.css`, validación custom en JavaScript, mensajes de error temáticos y efectos de sonido nostálgicos.
+
+Un ejercicio que demuestra que los detalles importan: desde el sonido de arranque hasta el cursor del ratón. Diseño retro con código moderno.
+
+**Stack:** `HTML5` `CSS3` `JavaScript ES6+` `XP.css`
+
+[![Ver repo](https://img.shields.io/badge/Ver_Repositorio-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/sergiovalerDEV/windows-xp-retro-form)
+
+</td>
+<td width="35%" align="center">
+
+```
+🎨 Diseño retro-moderno
+🔊 Efectos de sonido
+✅ Validación en tiempo real
+📱 Responsive design
+🧹 Código comentado
 ```
 
----
+</td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack
+<br/>
 
-<div align="center">
+> 🚧 &nbsp;Más proyectos en construcción — watch this space.
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+<br/>
 
-<div align="center">
+## `< values />`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiovalerDEV&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovalerDEV&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<br/>
 
-</div>
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   "El código que más orgulloso me tiene no es el más    │
+│    complejo — es el más fácil de leer tres meses        │
+│    después de escribirlo."                              │
+│                                                         │
+│                                        — sergiovalerDEV │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sergiovalerDEV&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+Hay tres cosas que no negocio en ningún proyecto:
 
-</div>
+**`Claridad`** &nbsp;·&nbsp; El código explica el qué. Los comentarios explican el porqué.
 
----
+**`Consistencia`** &nbsp;·&nbsp; Un proyecto con criterio uniforme es un proyecto mantenible.
 
-## 🚀 Featured Projects
+**`Criterio de diseño`** &nbsp;·&nbsp; Las interfaces son la cara del producto. Me importan.
 
-<div align="center">
-
-[![windows-xp-retro-form](https://github-readme-stats.vercel.app/api/pin/?username=sergiovalerDEV&repo=windows-xp-retro-form&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb)](https://github.com/sergiovalerDEV/windows-xp-retro-form)
-
-</div>
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🖥️ [Windows XP Retro Form](https://github.com/sergiovalerDEV/windows-xp-retro-form) | Nostalgic XP-styled form with JS validation, custom errors & sound effects | HTML · CSS · JS |
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Sergio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiovalerDEV&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<br/>
 
 ---
 
-## 🤝 Connect with Me
+<br/>
 
-<div align="center">
+## `< currently />`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+<br/>
 
-</div>
+| Estado | Qué |
+|--------|-----|
+| 🔨 &nbsp;Construyendo | Nuevos proyectos Full Stack públicos |
+| 📚 &nbsp;Estudiando | Arquitectura de software · Testing · Cloud |
+| 🎯 &nbsp;Objetivo | Contribuir a proyectos reales con impacto |
+| 🤝 &nbsp;Abierto a | Colaboraciones · Freelance · Oportunidades |
+
+<br/>
 
 ---
 
+<br/>
+
+## `< contact />`
+
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
+¿Tienes un proyecto en mente? ¿Buscas un desarrollador con criterio?
 
-![Profile Views](https://komarev.com/ghpvc/?username=sergiovalerDEV&style=flat-square&color=58a6ff&label=Profile+Views)
+**Hablemos.**
 
-*"First, solve the problem. Then, write the code."*
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=64ffda&labelColor=0d1117)](https://linkedin.com/in/TU_USUARIO)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=64ffda&labelColor=0d1117)](https://tu-portfolio.dev)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=64ffda&labelColor=0d1117)](mailto:tuemail@gmail.com)
+&nbsp;
+[![Twitter / X](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=64ffda&labelColor=0d1117)](https://twitter.com/TU_USUARIO)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:112240,100:0d1117&height=120&section=footer&text=&animation=fadeIn" width="100%"/>
+
+![](https://komarev.com/ghpvc/?username=sergiovalerDEV&style=flat-square&color=64ffda&label=Profile+Views)
 
 </div>
