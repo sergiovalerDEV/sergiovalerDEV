@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0a192f,70:0d2137,100:0d1117&height=280&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0a192f,70:0d2137,100:0d1117&height=300&section=header&text=Sergio%20Valer&fontSize=65&fontColor=64ffda&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer&descSize=20&descAlignY=62&descColor=8892b0&descAlign=50" width="100%"/>
 
-</div>
+<br/>
 
-<div align="center" style="margin-top:-260px; position:relative;">
+<img src="https://github.com/sergiovalerDEV.png" width="120" style="border-radius:50%;" />
 
-<img src="https://github.com/sergiovalerDEV.png" width="110" style="border-radius:50%; border: 3px solid #64ffda; margin-bottom: 12px;" />
+<br/><br/>
 
-# Sergio Valer
-
-### `Full Stack Developer`
-
-*Código que dura · Interfaces que importan · Detalles que marcan la diferencia*
+*Code that lasts · Interfaces that matter · Details that make the difference*
 
 <br/>
 
@@ -30,18 +26,18 @@
 
 <img align="right" width="36%" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
-Soy un desarrollador **Full Stack** con foco en construir productos digitales que sean tan sólidos por dentro como impecables por fuera.
+I'm a **Full Stack Developer** focused on building digital products that are as solid on the inside as they are polished on the outside.
 
-Me obsesiona el código limpio, la experiencia de usuario y ese punto exacto donde **el diseño y la lógica se fusionan**. No escribo código para que funcione — lo escribo para que dure.
+I'm obsessed with clean code, user experience, and that exact point where **design and logic merge**. I don't write code to make it work — I write it to make it last.
 
 <br/>
 
-- 🔭 &nbsp;Construyendo proyectos donde la creatividad tiene peso técnico
-- 🧠 &nbsp;Siempre aprendiendo — arquitectura, patrones, UX avanzado
-- ⚡ &nbsp;Creo que el mejor código es el que no necesita explicación
-- 🎨 &nbsp;Fan del detalle: desde la micro-animación de un botón hasta la estructura de una API
-- 🌐 &nbsp;Basado en España — disponible para proyectos remotos globales
-- 🤝 &nbsp;Trabajo bien en equipo y mejor aún con criterio propio
+- 🔭 &nbsp;Building projects where creativity has technical weight
+- 🧠 &nbsp;Always learning — architecture, patterns, advanced UX
+- ⚡ &nbsp;I believe the best code is the kind that needs no explanation
+- 🎨 &nbsp;Detail-oriented: from button micro-animations to API structure
+- 🌐 &nbsp;Based in Spain — available for global remote projects
+- 🤝 &nbsp;Team player with a strong independent criterion
 
 <br/><br/><br/>
 
@@ -70,13 +66,13 @@ Me obsesiona el código limpio, la experiencia de usuario y ese punto exacto don
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=64ffda)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=64ffda)
 
-**— Bases de datos**
+**— Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=64ffda)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=64ffda)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=64ffda)
 
-**— Herramientas & entorno**
+**— Tools & Environment**
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=64ffda)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)
@@ -96,7 +92,7 @@ Me obsesiona el código limpio, la experiencia de usuario y ese punto exacto don
 
 <br/>
 
-> Cada proyecto que publico tiene un porqué. Aquí los más representativos.
+> Every project I publish has a reason behind it. Here are the most representative ones.
 
 <br/>
 
@@ -106,24 +102,24 @@ Me obsesiona el código limpio, la experiencia de usuario y ese punto exacto don
 <tr>
 <td width="63%">
 
-Formulario con estética **Windows XP** construido con `XP.css`, validación custom en JavaScript, mensajes de error temáticos y efectos de sonido auténticos.
+A form with **Windows XP** aesthetics built with `XP.css`, custom JavaScript validation, themed error messages and authentic sound effects.
 
-No es solo un formulario — es una declaración de intenciones: los detalles no son opcionales. Cada interacción fue diseñada para sentirse exacta, desde el click hasta el sonido de error.
+This isn't just a form — it's a statement: details are not optional. Every interaction was designed to feel precise, from the click to the error sound.
 
 **Stack:** `HTML5` · `CSS3` · `JavaScript ES6+` · `XP.css`
 
-[![Ver repositorio](https://img.shields.io/badge/Ver_Repositorio-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/sergiovalerDEV/windows-xp-retro-form)
+[![View Repository](https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/sergiovalerDEV/windows-xp-retro-form)
 
 </td>
 <td width="37%" align="center">
 
 ```
-🎨  Estética retro-moderna
-🔊  Sound effects auténticos
-✅  Validación en tiempo real
+🎨  Retro-modern aesthetic
+🔊  Authentic sound effects
+✅  Real-time validation
 📱  Responsive design
-💬  Error dialogs temáticos
-🧹  Código limpio y comentado
+💬  Themed error dialogs
+🧹  Clean, commented code
 ```
 
 </td>
@@ -136,30 +132,30 @@ No es solo un formulario — es una declaración de intenciones: los detalles no
 <tr>
 <td align="center" width="33%">
 
-### 🚧 Próximamente
+### 🚧 Coming Soon
 
-**Proyecto Full Stack**
-API REST + Frontend React
+**Full Stack Project**
+REST API + React Frontend
 
 `Node.js` · `React` · `MongoDB`
 
 </td>
 <td align="center" width="33%">
 
-### 🚧 Próximamente
+### 🚧 Coming Soon
 
-**Dashboard de gestión**
-UI completa con autenticación
+**Management Dashboard**
+Full UI with authentication
 
 `Next.js` · `TypeScript` · `Tailwind`
 
 </td>
 <td align="center" width="33%">
 
-### 🚧 Próximamente
+### 🚧 Coming Soon
 
-**Herramienta CLI**
-Automatización de flujos dev
+**CLI Tool**
+Dev workflow automation
 
 `Python` · `Shell` · `GitHub Actions`
 
@@ -180,12 +176,12 @@ Automatización de flujos dev
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   No escribo código para impresionar.                        ║
-║   Lo escribo para que cualquier desarrollador pueda          ║
-║   leerlo, entenderlo y mejorarlo sin necesitar               ║
-║   preguntarme nada.                                          ║
+║   I don't write code to impress.                             ║
+║   I write it so any developer can read it,                   ║
+║   understand it, and improve it —                            ║
+║   without ever having to ask me anything.                    ║
 ║                                                              ║
-║   Eso es lo que considero código de calidad.                 ║
+║   That's what I consider quality code.                       ║
 ║                                                              ║
 ║                                          — sergiovalerDEV    ║
 ║                                                              ║
@@ -194,17 +190,17 @@ Automatización de flujos dev
 
 <br/>
 
-Lo que no negocio en ningún proyecto:
+Three things I never compromise on:
 
 <br/>
 
-| Principio | Aplicación real |
-|-----------|----------------|
-| **Claridad** | El código explica el *qué*. Los comentarios explican el *porqué*. |
-| **Consistencia** | Mismo estilo, mismas convenciones, de la primera línea a la última. |
-| **Criterio de diseño** | Las interfaces son la cara del producto. No se descuidan. |
-| **Responsabilidad** | Si lo firmé, respondo por ello. Sin excusas, con soluciones. |
-| **Curiosidad** | Siempre hay una forma mejor. Siempre vale la pena buscarla. |
+| Principle | In practice |
+|-----------|-------------|
+| **Clarity** | Code explains the *what*. Comments explain the *why*. |
+| **Consistency** | Same style, same conventions — from line one to the last. |
+| **Design Judgment** | Interfaces are the face of the product. They don't get neglected. |
+| **Ownership** | If I signed it, I stand by it. No excuses — only solutions. |
+| **Curiosity** | There's always a better way. It's always worth looking for it. |
 
 <br/>
 
@@ -217,23 +213,23 @@ Lo que no negocio en ningún proyecto:
 <br/>
 
 ```
-  ENTENDER         PLANIFICAR        CONSTRUIR         REFINAR
-      │                 │                │                │
-  ┌───▼───┐         ┌───▼───┐       ┌───▼───┐        ┌───▼───┐
-  │  ¿Qué │ ──────► │Diseño │ ────► │ Código│ ──────►│ Tests │
-  │necesita│        │ y arch│       │ limpio│        │ y fix │
-  └───────┘         └───────┘       └───────┘        └───────┘
-                                                          │
-                                                    ┌─────▼──────┐
-                                                    │  Entrega   │
-                                                    │  con orgu- │
-                                                    │    llo     │
-                                                    └────────────┘
+  UNDERSTAND        PLAN             BUILD            REFINE
+      │               │                │                │
+  ┌───▼───┐       ┌───▼───┐       ┌───▼───┐        ┌───▼───┐
+  │ What  │ ────► │Design │ ────► │ Clean │ ──────►│ Test  │
+  │does it│       │& arch.│       │ code  │        │ & fix │
+  │ need? │       │       │       │       │        │       │
+  └───────┘       └───────┘       └───────┘        └───┬───┘
+                                                        │
+                                                   ┌────▼─────┐
+                                                   │ Ship with │
+                                                   │   pride   │
+                                                   └───────────┘
 ```
 
 <br/>
 
-Trabajo con metodología clara: antes de escribir una línea de código, entiendo el problema. Antes de entregar, lo reviso con ojos frescos. El resultado importa tanto como el proceso.
+Clear methodology: before writing a single line, I understand the problem. Before delivering, I review it with fresh eyes. The result matters as much as the process.
 
 <br/>
 
@@ -245,16 +241,16 @@ Trabajo con metodología clara: antes de escribir una línea de código, entiend
 
 <br/>
 
-> El aprendizaje no se detiene. Esto es en lo que estoy profundizando ahora mismo:
+> The learning never stops. This is what I'm currently going deep on:
 
 <br/>
 
 ```javascript
 const currently_learning = {
-  arquitectura  : ["Clean Architecture", "SOLID principles", "Design Patterns"],
+  architecture  : ["Clean Architecture", "SOLID Principles", "Design Patterns"],
   testing       : ["Jest", "Testing Library", "TDD workflow"],
-  cloud         : ["AWS fundamentals", "CI/CD pipelines", "Docker & containers"],
-  exploring     : ["Web3 basics", "AI integrations", "Performance optimization"],
+  cloud         : ["AWS Fundamentals", "CI/CD Pipelines", "Docker & Containers"],
+  exploring     : ["AI Integrations", "Web Performance", "Accessibility (a11y)"],
 };
 ```
 
@@ -268,13 +264,13 @@ const currently_learning = {
 
 <br/>
 
-| Estado | Detalle |
-|--------|---------|
-| 🔨 &nbsp;**Construyendo** | Proyectos Full Stack públicos con backend propio |
-| 📚 &nbsp;**Estudiando** | Arquitectura de software · Testing · Cloud fundamentals |
-| 🎯 &nbsp;**Buscando** | Proyectos con impacto real y equipo con criterio |
-| 🤝 &nbsp;**Abierto a** | Colaboraciones · Freelance · Oportunidades laborales |
-| ⏳ &nbsp;**Disponibilidad** | Inmediata — hablemos sin compromiso |
+| Status | Detail |
+|--------|--------|
+| 🔨 &nbsp;**Building** | Full Stack public projects with own backend |
+| 📚 &nbsp;**Studying** | Software architecture · Testing · Cloud fundamentals |
+| 🎯 &nbsp;**Looking for** | Real-impact projects and teams with high standards |
+| 🤝 &nbsp;**Open to** | Collaborations · Freelance · Job opportunities |
+| ⏳ &nbsp;**Availability** | Immediate — let's talk, no strings attached |
 
 <br/>
 
@@ -286,11 +282,12 @@ const currently_learning = {
 
 <br/>
 
-- 🖥️ &nbsp;El primer proyecto que publiqué fue un formulario con sonidos de Windows XP. Sin arrepentimientos.
-- 🧩 &nbsp;Cuando algo no funciona, lo primero que hago es leer el código en voz alta. Funciona.
-- ☕ &nbsp;Escribo mejor código por la mañana. Debuggeo mejor por la noche.
-- 📐 &nbsp;Tengo opiniones fuertes sobre indentación y las defiendo con argumentos.
-- 🎯 &nbsp;Mi métrica favorita: ¿puedo entender este código 6 meses después sin contexto?
+- 🖥️ &nbsp;My first published project was a form with Windows XP sounds. Zero regrets.
+- 🧩 &nbsp;When something doesn't work, the first thing I do is read the code out loud. It works.
+- ☕ &nbsp;I write better code in the morning. I debug better at night.
+- 📐 &nbsp;I have strong opinions about indentation and I defend them with arguments.
+- 🎯 &nbsp;My favorite metric: can I understand this code 6 months later with zero context?
+- 🔍 &nbsp;I always look at the DevTools Network tab before calling something "done".
 
 <br/>
 
@@ -304,12 +301,12 @@ const currently_learning = {
 
 <div align="center">
 
-**¿Tienes un proyecto en mente?**
-**¿Buscas a alguien que entienda tanto el código como el producto?**
+**Got a project in mind?**
+**Looking for someone who understands both the code and the product?**
 
 <br/>
 
-*Estoy disponible. Hablemos.*
+*I'm available. Let's talk.*
 
 <br/>
 
@@ -324,8 +321,7 @@ const currently_learning = {
 <br/>
 
 ```
-Tiempo de respuesta habitual: menos de 24h
-Idiomas: Español · English
+Response time: under 24h  ·  Languages: Spanish · English
 ```
 
 </div>
