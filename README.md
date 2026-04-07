@@ -1,94 +1,113 @@
-## Hi there 👋
+<div align="center">
 
-👀 I'm passionate about **Full Stack Development**, **Cloud Architecture**, and **Mobile App Development**
-🌱 Currently mastering **AWS**, **Docker**, **CI/CD**, **Software Architecture**, **Nest.js**, and **React Native**
-💞️ I'm eager to collaborate on innovative projects that push technological boundaries
-📫 Let's connect! Reach out through LinkedIn or email
+<!-- Banner animado con typing effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sergio+Valer+%F0%9F%91%8B;Full+Stack+Developer;Clean+Code+%7C+Creative+Interfaces;Building+things+that+matter)](https://git.io/typing-svg)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-## :handshake: Connect With Me
-
-<a href="https://www.linkedin.com/in/sergio-valer-pérez-6a49632b0" target="_blank">
-  <img align="left" src="https://github.com/user-attachments/assets/72a5bde7-ef0b-4271-9ee9-216349c1bba0" alt="Sergio Valer | LinkedIn" width="35px"/>
-</a>
-
-<a href="mailto:sergiovalerp@gmail.com" target="_blank">
-  <img align="left" src="https://github.com/user-attachments/assets/f7bd2821-ed8e-43cf-8838-52f9bcc20e5b" alt="Sergio Valer | Gmail" width="35px" heigth="5000px"/>
-</a>
-<br><br>
+</div>
 
 ---
 
-## :briefcase: Technical Skills
+## 🧑‍💻 About Me
 
-<p>
-  <!-- DevOps/Infrastructure/CI/CD -->
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
-<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
-<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-
-<!-- Programming Languages/Core Development -->
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-
-<!-- Frameworks/Backend -->
-<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
-
-<!-- Databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle" />
-
-<!-- Frontend/UI -->
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-
-<!-- Development Tools -->
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio" />
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"/>
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-</p>
+```typescript
+const sergio = {
+  role:       "Full Stack Developer",
+  focus:      ["Clean Code", "Creative UI", "Scalable Architecture"],
+  currently:  "Building projects that blend functionality with great design",
+  philosophy: "Code should be readable by humans first, machines second",
+  fun_fact:   "I once built a Windows XP-themed form — with sounds 🔊",
+};
+```
 
 ---
 
-## :chart_with_upwards_trend: GitHub Stats
+## 🛠️ Tech Stack
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
 
-[![Sergio's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sergiovalerDEV)](https://github.com/DenverCoder1/github-readme-streak-stats)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovalerDEV&layout=compact)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Sergio Valer's GitHub Stats
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Sergio's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiovalerDEV&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true&custom_title=Sergio%20Valer's%20Contribution%20Graph)</div>
+</div>
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Stats
 
-- 🏗️ Architecting scalable and resilient cloud-native applications on AWS
-- 🐳 Containerizing applications with Docker and orchestrating with Kubernetes
-- 🔄 Implementing robust CI/CD pipelines for seamless deployments
-- 📱 Developing cross-platform mobile apps with React Native
-- 🏛️ Exploring advanced software architecture patterns and best practices
-- 🚀 Building high-performance backend services with Nest.js
+<div align="center">
 
-  ---
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiovalerDEV&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovalerDEV&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
-💡 Always learning, always growing. Let's build something amazing together!
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sergiovalerDEV&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![windows-xp-retro-form](https://github-readme-stats.vercel.app/api/pin/?username=sergiovalerDEV&repo=windows-xp-retro-form&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb)](https://github.com/sergiovalerDEV/windows-xp-retro-form)
+
+</div>
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🖥️ [Windows XP Retro Form](https://github.com/sergiovalerDEV/windows-xp-retro-form) | Nostalgic XP-styled form with JS validation, custom errors & sound effects | HTML · CSS · JS |
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Sergio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiovalerDEV&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sergiovalerDEV&style=flat-square&color=58a6ff&label=Profile+Views)
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
